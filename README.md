@@ -13,3 +13,9 @@ Notebooks for Tensorflow for Machine Intelligence by Sam Abrahams, Danijar Hafne
 
 1) **`My First Notebook.ipynb`**
 
+## Part 2: TensorFlow and Machine Learning fundamentals
+
+### Chapter 3: TensorFlow Fundamentals
+
+1) **`First TensorFlow Graph.ipynb`**
+

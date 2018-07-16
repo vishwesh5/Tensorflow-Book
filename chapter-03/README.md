@@ -1,6 +1,6 @@
-# Chapter 2
+# Chapter 3
 
-Notebook for **Chapter 2: __TensorFlow Installation__**
+Notebook for **Chapter 3: TensorFlow Fundamentals**
 
 ## Pre-requisites
 
@@ -18,6 +18,12 @@ Notebook for **Chapter 2: __TensorFlow Installation__**
 4) Put the notebooks in the repository in the folder.
 5) `jupyter notebook` or `jupyter lab`
 
+## How to use `**tensorboard**`
+
+1) Once summary has been written, open command line.
+2) `tensorboard --logdir="<the directory where summary has been written>"`
+
 ## Codes
 
-1) My First Notebook
+1) First TensorFlow Graph
+
