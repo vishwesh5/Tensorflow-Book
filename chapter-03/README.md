@@ -26,4 +26,5 @@ Notebook for **Chapter 3: TensorFlow Fundamentals**
 ## Codes
 
 1) First TensorFlow Graph
+
 ![Output](https://github.com/vishwesh5/Tensorflow-Book/raw/master/chapter-03/first_tensorflow_graph.png)
