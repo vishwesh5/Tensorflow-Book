@@ -26,4 +26,5 @@ Notebook for **Chapter 3: TensorFlow Fundamentals**
 ## Codes
 
 1) First TensorFlow Graph
+2) Thinking With Tensors
 
