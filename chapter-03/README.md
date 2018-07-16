@@ -39,3 +39,6 @@ Notebook for **Chapter 3: TensorFlow Fundamentals**
 
 ![Output](https://github.com/vishwesh5/TensorFlow-Book/raw/master/chapter-03/name_scope2.png)
 
+4) Exercise
+
+![Output](https://github.com/vishwesh5/TensorFlow-Book/raw/master/chapter-03/Exercise.png)
