@@ -26,6 +26,9 @@ Notebook for **Chapter 3: TensorFlow Fundamentals**
 ## Codes
 
 1) First TensorFlow Graph
-2) Thinking With Tensors
 
 ![Output](https://github.com/vishwesh5/Tensorflow-Book/raw/master/chapter-03/first_tensorflow_graph.png)
+
+2) Thinking with Tensors
+
+![Output](https://github.com/vishwesh5/TensorFlow-Book/raw/master/chapter-03/thinking_with_tensors.png)
