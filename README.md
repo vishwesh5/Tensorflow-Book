@@ -13,4 +13,3 @@ Notebooks for Tensorflow for Machine Intelligence by Sam Abrahams, Danijar Hafne
 
 1) **`My First Notebook.ipynb`**
 
-2) **`Check installation.ipynb`**
