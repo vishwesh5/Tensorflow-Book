@@ -18,7 +18,7 @@ Notebook for **Chapter 3: TensorFlow Fundamentals**
 4) Put the notebooks in the repository in the folder.
 5) `jupyter notebook` or `jupyter lab`
 
-## How to use `**tensorboard**`
+## How to use **`tensorboard`**
 
 1) Once summary has been written, open command line.
 2) `tensorboard --logdir="<the directory where summary has been written>"`
@@ -28,3 +28,4 @@ Notebook for **Chapter 3: TensorFlow Fundamentals**
 1) First TensorFlow Graph
 2) Thinking With Tensors
 
+![Output](https://github.com/vishwesh5/Tensorflow-Book/raw/master/chapter-03/first_tensorflow_graph.png)
