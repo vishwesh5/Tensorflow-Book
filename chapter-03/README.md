@@ -32,3 +32,10 @@ Notebook for **Chapter 3: TensorFlow Fundamentals**
 2) Thinking with Tensors
 
 ![Output](https://github.com/vishwesh5/TensorFlow-Book/raw/master/chapter-03/thinking_with_tensors.png)
+
+3) Name scope example
+
+![Output](https://github.com/vishwesh5/TensorFlow-Book/raw/master/chapter-03/name_scope1.png)
+
+![Output](https://github.com/vishwesh5/TensorFlow-Book/raw/master/chapter-03/name_scope2.png)
+
