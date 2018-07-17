@@ -19,3 +19,12 @@ Notebooks for Tensorflow for Machine Intelligence by Sam Abrahams, Danijar Hafne
 
 1) **`First TensorFlow Graph.ipynb`**
 
+2) **`Thinking with Tensors.ipynb`**
+
+3) **`Name scope example.ipynb`**
+
+4) **`Exercise.ipynb`**
+
+### Chapter 4: Machine Learning Basics
+
+1) **`Scaffolding.ipynb`**
